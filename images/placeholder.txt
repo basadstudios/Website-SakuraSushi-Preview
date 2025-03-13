@@ -1,0 +1,35 @@
+Image Placeholders for Sakura Sushi Website
+
+For the website to display correctly, please add the following images:
+
+1. Hero Image:
+   - Path: /images/hero-bg.jpg
+   - Recommended size: 1920x1080px
+   - Description: A high-quality image of Japanese cuisine or restaurant interior
+
+2. Menu Images:
+   - Path: /images/menu/[item-name].jpg (e.g., sakura-roll.jpg, dragon-roll.jpg)
+   - Recommended size: 800x600px
+   - Description: Images of each menu item
+
+3. Gallery Images:
+   - Path: /images/gallery/[image-name].jpg
+   - Recommended size: 1200x800px
+   - Description: High-quality images of food, restaurant interior, etc.
+
+4. Team/Chef Images:
+   - Path: /images/team/[chef-name].jpg
+   - Recommended size: 600x800px
+   - Description: Professional photos of chefs
+
+5. Testimonial Images:
+   - Path: /images/testimonials/[name].jpg
+   - Recommended size: 200x200px
+   - Description: Headshots of customers for testimonials
+
+6. About Section Image:
+   - Path: /images/about-restaurant.jpg
+   - Recommended size: 1000x1200px
+   - Description: Image of restaurant interior or chefs at work
+
+You can use stock photos or your own images. Make sure to update the paths in the data files if you use different filenames. 
